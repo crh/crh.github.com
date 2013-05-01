@@ -4,7 +4,7 @@
   <title><![CDATA[Study of the Self]]></title>
   <link href="http://crh.github.io/feed" rel="self"/>
   <link href="http://crh.github.io/"/>
-  <updated>2013-05-01T14:38:23+02:00</updated>
+  <updated>2013-05-01T14:41:45+02:00</updated>
   <id>http://crh.github.io/</id>
   <author>
     <name><![CDATA[crh]]></name>
@@ -12,5 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reading List]]></title>
+    <link href="http://crh.github.io/blog/2013/05/01/books/"/>
+    <updated>2013-05-01T14:00:00+02:00</updated>
+    <id>http://crh.github.io/blog/2013/05/01/books</id>
+    <content type="html"><![CDATA[<ul>
+<li> J. Resig &amp; B. Biberault, &#8221;<a href="http://goo.gl/JuoNt">Secrets of the JavaScript Ninja</a>&#8221;</li>
+<li> W. B. Irvine,
+ &#8221;<a href="http://goo.gl/EEKXE">A Guide to the Good Life: The Ancient Art of Stoic Joy</a>&#8221;</li>
+<li> D. Herman, &#8221;<a href="http://goo.gl/kiYQy">Effective JavaScript</a>&#8221;</li>
+<li> D. Kahneman, &#8221;<a href="http://goo.gl/cGO9a">Thinking, Fast and Slow</a>&#8221;</li>
+<li> C. Newport, &#8221;<a href="http://goo.gl/7vt8Z">So Good They Can&#8217;t Ignore You</a>&#8221;</li>
+<li> D. S. McFarland,  &#8221;<a href="http://goo.gl/RduHG">CSS: The Missing Manual</a>&#8221;</li>
+<li> W. Zinsser, &#8221;<a href="http://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction/dp/0060891548&amp;tag=chrgit-21">On Writing Well</a>&#8221;</li>
+<li> F. Haren, &#8221;<a href="http://www.amazon.com/Developing-World-Fredrik-Haren/dp/9197547077/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1367409532&amp;sr=1-1&amp;keywords=the+developing+world&amp;tag=chrgit-21">The Developing World</a>&#8221;</li>
+<li> R. B. Cialdini, &#8221;<a href="http://www.amazon.com/Influence-Psychology-Persuasion-Business-Essentials/dp/006124189X/ref=pd_sim_b_3&amp;tag=chrgit-21">Influence: The Psychology of Persuasion</a>&#8221;</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
