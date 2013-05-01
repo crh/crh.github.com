@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading List"
-date: 2013-04-27 19:38
+date: 2013-05-01 14:00
 comments: false
 categories:
 published: false
@@ -16,4 +16,4 @@ published: false
    - D. S. McFarland,  "[CSS: The Missing Manual](http://goo.gl/RduHG)"
    - W. Zinsser, "[On Writing Well](http://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction/dp/0060891548&tag=chrgit-21)"
    - F. Haren, "[The Developing World](http://www.amazon.com/Developing-World-Fredrik-Haren/dp/9197547077/ref=sr_1_1?s=books&ie=UTF8&qid=1367409532&sr=1-1&keywords=the+developing+world&tag=chrgit-21)"
-    - R. B. Cialdini, "[Influence: The Psychology of Persuasion](http://www.amazon.com/Influence-Psychology-Persuasion-Business-Essentials/dp/006124189X/ref=pd_sim_b_3&tag=chrgit-21)
+   - R. B. Cialdini, "[Influence: The Psychology of Persuasion](http://www.amazon.com/Influence-Psychology-Persuasion-Business-Essentials/dp/006124189X/ref=pd_sim_b_3&tag=chrgit-21)"
