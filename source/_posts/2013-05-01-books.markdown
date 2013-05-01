@@ -4,7 +4,7 @@ title: "Reading List"
 date: 2013-05-01 14:00
 comments: false
 categories:
-published: false
+published: true
 ---
 
    - J. Resig & B. Biberault, "[Secrets of the JavaScript Ninja](http://goo.gl/JuoNt)"
